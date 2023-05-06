@@ -1,7 +1,7 @@
 # powershell_scripts
 powershell
 
-
+https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.3
 configure powershell before running.
 
 launch powershell and run below commands:
